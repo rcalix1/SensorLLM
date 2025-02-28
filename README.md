@@ -18,6 +18,7 @@
 ## and then how do you take that product and sell it to a client or company
 
 * YouTube
+* Patreon
 * kickstarter (https://www.kickstarter.com)
 * 
 
