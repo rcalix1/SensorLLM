@@ -4,7 +4,9 @@
 
 ##  Ex: a sensor alerts you when the heat index is above a certain point in your area and sends you a notification.
 
-* link
+* IOT
+* SQL
+* cron
 
 ## Where do you start with the idea and develop the LLM for it 
 
