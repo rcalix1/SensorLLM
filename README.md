@@ -10,6 +10,8 @@
 
 ## Where do you start with the idea and develop the LLM for it 
 
+* AI Agents
+* CrewAI
 * ollama run llama3.2
 * 
 
