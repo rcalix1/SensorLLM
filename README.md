@@ -2,6 +2,16 @@
 
 * Ex: a sensor alerts you when the heat index is above a certain point in your area and sends you a notification. Where do you start with the idea and develop the LLM for it and then how do you take that product and sell it to a client or company
 
+## Use case
+
+* People walking on a hallway
+* sensors are looking at them
+* all kinds of sensors
+* collecting data that is sent to the LLM
+* the LLM can create advertisement infiormation
+* to display on screens in the hallway
+* 
+
 ##  Ex: a sensor alerts you when the heat index is above a certain point in your area and sends you a notification.
 
 * IOT
