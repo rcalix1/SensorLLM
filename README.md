@@ -13,5 +13,17 @@
 
 ## and then how do you take that product and sell it to a client or company
 
-* link
+* YouTube
+* kickstarter (https://www.kickstarter.com)
 * 
+* 
+
+## Venture Capital Funds
+
+* https://cubit.capital
+* https://www.8vc.com
+* https://www.luxcapital.com
+* https://www.boozallen.com/expertise/innovation/ventures.html
+* https://foundersfund.com
+* https://a16z.com
+* https://gaingels.com/#toggle-gdpr
