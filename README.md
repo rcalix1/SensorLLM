@@ -8,7 +8,8 @@
 
 ## Where do you start with the idea and develop the LLM for it 
 
-* link
+* ollama run llama3.2
+* 
 
 ## and then how do you take that product and sell it to a client or company
 
