@@ -18,7 +18,6 @@
 * YouTube
 * kickstarter (https://www.kickstarter.com)
 * 
-* 
 
 ## Venture Capital Funds
 
