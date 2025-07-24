@@ -185,4 +185,4 @@ This material was created by **Ricardo Calix**, professor, AI consultant, and au
 - 🌐 Website: [www.rcalix.com](https://www.rcalix.com)
 - 📧 Email: [rcalix@rcalix.com](mailto:rcalix@rcalix.com)
 
-- 
+
