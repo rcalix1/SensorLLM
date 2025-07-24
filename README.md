@@ -52,16 +52,13 @@
 
 # Master Class: Automation and Implementation Strategies with LLMs
 
-**Audience:** Business professionals (non-coders)
-**Duration:** 90 minutes
-
 ---
 
 ## Part 1: Framing the Problem (10 min)
 
 ### What happens when LLMs meet the real world?
 
-* Begin with a high-level overview of LLMs — think ChatGPT, Claude, Gemini. Emphasize that these are general-purpose language models trained to understand and generate human-like text.
+* High-level overview of LLMs — think ChatGPT, Claude, Gemini. Emphasize that these are general-purpose language models trained to understand and generate human-like text.
 * Explain why they are transformative: They can summarize, classify, reason, and even generate business logic from messy inputs.
 * Key distinction: LLMs don’t just chat — they **automate decision-making at scale**.
 
