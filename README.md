@@ -30,7 +30,7 @@
 * CrewAI
 * ollama run llama3.2
 * Code: https://github.com/rcalix1/AgentsAI/tree/main/crewAI
-* 
+* Used this one: https://github.com/rcalix1/AgentsAI/tree/main 
 
 ## and then how do you take that product and sell it to a client or company
 
