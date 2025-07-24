@@ -100,7 +100,7 @@
 
 ## Part 3: From Idea to MVP (20 min)
 
-### Building SensorLLM Without Coding
+### Building SensorLLM 
 
 **Step-by-step process for building automation with LLMs:**
 
