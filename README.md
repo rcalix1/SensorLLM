@@ -16,7 +16,7 @@
 
 * look at a child metrics
 * and have an AI agents act as a nurse
-* 
+
 
 ##  Ex: a sensor alerts you when the heat index is above a certain point in your area and sends you a notification.
 
