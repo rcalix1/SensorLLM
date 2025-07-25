@@ -26,6 +26,14 @@
 * SQL
 * cron
 
+## LLM options
+
+* Get Inference GPU vs. cloud
+* GPU and cloud
+* GPU are expensive upfront ($5k <)
+* Cloud - rate limits
+* hybrid approach 
+
 ## Where do you start with the idea and develop the LLM for it 
 
 * AI Agents
