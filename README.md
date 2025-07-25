@@ -47,7 +47,7 @@
 * YouTube
 * Patreon
 * kickstarter (https://www.kickstarter.com)
-* 
+* Small Business Innovation Research (SBIR) 
 
 ## Venture Capital Funds
 
