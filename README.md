@@ -26,6 +26,13 @@
 * SQL
 * cron
 
+## No Code AI agents framework
+
+* n8n
+* https://n8n.io
+* 
+
+
 ## LLM options
 
 * Get Inference GPU vs. cloud
