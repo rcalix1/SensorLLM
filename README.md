@@ -171,7 +171,14 @@ Identify venture firms focused on applied AI, industrial automation, health tech
 
 ---
 
-## Part 6: Wrap-Up + Q\&A (5 min)
+## Part 6: Edge devices
+
+* The NVIDIA® Jetson Orin Nano™ Developer Kit empowers the development of AI-powered robots, smart drones, and intelligent cameras built on the Jetson Orin series
+* https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit
+
+---
+
+## Part 7: Wrap-Up + Q\&A (5 min)
 
 ### Final Slide Summary:
 
