@@ -1,6 +1,7 @@
 # SensorLLM
 
 * AIBT
+* Automation and Implementation Strategies with LLMs
 * Requested topic: A Sensor LLM regarding the heat index and alternating staff based on Children's internal temperatures.
 * **The central goal is to encompass the full scope of such a system from start to finish.**
 * Ex: a sensor alerts you when the heat index is above a certain point in your area and sends you a notification. Where do you start with the idea and develop the LLM for it and then how do you take that product and sell it to a client or company
